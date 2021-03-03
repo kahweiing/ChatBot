@@ -1,3 +1,0 @@
-﻿  knowledge.c
-C:\Users\ng_ka\source\repos\c-project\C Project\C Project\knowledge.c(241): warning C4715: 'knowledge_put': not all control paths return a value
-  C Project.vcxproj -> C:\Users\ng_ka\Source\Repos\c-project\C Project\x64\Debug\C Project.exe
